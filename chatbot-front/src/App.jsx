@@ -3,8 +3,12 @@ import './App.css'
 function App() {
 
   return (
-    <div>App</div>
-  )
+    <div className="app">
+    <div className="app-container">
+      <div className="spotlight__wrapper">
+      </div>
+    </div>
+  </div>  )
 }
 
 export default App
